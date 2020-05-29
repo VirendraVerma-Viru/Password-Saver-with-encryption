@@ -1,0 +1,2 @@
+del testw.res
+exit
